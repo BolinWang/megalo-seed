@@ -36,7 +36,7 @@ export default {
     window: {
       backgroundTextStyle: 'light',
       navigationBarBackgroundColor: '#fff',
-      navigationBarTitleText: 'haha',
+      navigationBarTitleText: 'megalo测试',
       navigationBarTextStyle: 'black'
     }
   }
